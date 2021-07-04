@@ -1,0 +1,103 @@
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.nav{
+  font-size: 15px !important;
+}
+
+.navbar-default{
+  position: fixed;
+  z-index:2;
+}
+
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+    width:100%;
+
+}
+.navbar-nav  li a:hover {
+    color: #1abc9c !important;
+}
+
+hr{
+  border-width: 10px !important;
+  border: dotted #98ddca;
+  border-bottom: none;
+  width: 4%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.cont{
+  font-size: 20px;
+  font-family: 'Patrick Hand', cursive;
+}
+
+.conth{
+  font-family: 'Abril Fatface', cursive;
+}
+
+.homeh{/*  */
+  color: blue !important;
+
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Merienda', cursive;
+}
+
+.homediv{
+  position: relative;
+  margin-left: 0;
+  padding-left: 0;
+  /* border: solid; */
+  width:1150px;
+  left:0px;
+  top:90px;
+}
+
+.mac{
+  z-index:-1;
+  width:100%;
+}
+
+.homecdiv{
+  font-size: 30px;
+    /* text-align: center; */
+    font-family: 'Patrick Hand', cursive;
+  position: absolute;
+  z-index: 1;
+  top: 50px;
+  left: 50px;
+  width:845px;
+}
+
+.homec{
+  text-align: center;
+}
+
+.footer-padding {
+	padding-bottom: 60px;
+}
+
+.footer {
+  position: fixed;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	background-color: #1abc9c;
+}
+
+.footer p {
+	margin-top: 25px;
+	font-size: 12px;
+  color: #fff;
+}

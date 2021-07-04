@@ -1,0 +1,22 @@
+->To Run this application you have to have MongoDB installed in your system because all the entries that you will enter on website will 
+get saved in this DataBase.
+
+->After that head over to command prompt change the directory(see step-5) and type npm init ans npm i body-parser,ejs,express,lodash,mongoose.
+This will download all the packages require for running our website. Now close the command prompt.
+
+->After MongoDB installation, you can head over to the command prompt and open two tabs in it.
+
+->In first tab type *mongod* without stars(*) and hit enter. This will basically, start up your mongodb server that will link up the
+website with mongoDB database.
+
+->In another tab that you opened, type cd location_of_our_project_folder. 
+For example if project folder is on desktop and have name Pro then command will be *cd dektop/Pro* without stars(*)
+This will change the directory from User to our Project Folder.
+
+->After that in the same tab i.e. second one type *node app.js* without stars(*). This command will run the local server and main 
+javascript file naming app.js.
+
+->The last step is to head over to your web browser and type *localhost:3000* without stars(*). Hit enter to run the website on you system.
+
+
+------------------------------------------------	HAPPY JOURNALING	------------------------------------------------------
