@@ -1,2 +1,3 @@
 # Daily-Journal-Website
-HERE WE ARE INTRODUCING YOU WITH OUR BRAND NEW ONLINE DAILY JOURNAL THAT YOU CAN ACCESS ANYWHERE AROUND THE WORLD AND IS USER- AND ENVIRONMENT-FRIENDLY.  
+It is a online daily journal that you can access anywhere around the world and is user- and environment-friendly.
+![](https://github.com/piyushjasaiwal/Daily-Journal-Website/blob/master/images/journal.png)
