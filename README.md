@@ -29,4 +29,10 @@ The past entries made by the user are shown at the bottom of the home page like 
 
 #### Expanded view of the entry
 the user can see the details of the entry by clicking <strong>Read more</strong>.After clicking on the entry it opens like this.
-![]()
+![](https://github.com/piyushjasaiwal/Daily-Journal-Website/blob/master/images/expanded_entry.PNG)
+
+#### About Section
+![](https://github.com/piyushjasaiwal/Daily-Journal-Website/blob/master/images/about.png)
+
+#### Contact Section
+![](https://github.com/piyushjasaiwal/Daily-Journal-Website/blob/master/images/contact.png)
